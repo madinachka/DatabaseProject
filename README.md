@@ -1,7 +1,7 @@
 # DatabaseProject
 Database project for CSC 450
 
-#To download the data set, follow these instructions
+#To download the dataset, follow these instructions
 
     File: disease2pubtator (download from PubTator, ftp://ftp.ncbi.nlm.nih.gov/pub/lu/PubTator/)
     Processing: replace "MESH:" with "",
@@ -23,9 +23,9 @@ Database project for CSC 450
             
 #Inserting data to MySQL and HBase   
 
-    For MySQL: Use DCAST-2017-11-02.DDL to insert the data set into MySQL
+    For MySQL: Use DCAST-2017-11-02.DDL to insert the dataset into MySQL
 
-    For HBase: Use Apache_pig.pig to process the data set and insert into HBase
+    For HBase: Use Apache_pig.pig to process and insert the dataset into HBase
 
 #To run the query
 
